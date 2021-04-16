@@ -1,1 +1,1 @@
-github.com/HowToLoveChina/go-opencl
+module github.com/HowToLoveChina/go-opencl
